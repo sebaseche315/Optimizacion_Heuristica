@@ -1,11 +1,3 @@
-# demo-clase
-este es un demo para la case del sabado
-
-
-## sub
-
-estamos comenzando
-
-### este es un nuevo cambio
-
-otro
+# Ejercicios de Optimización
+* Creación de una Funcion Benchmark
+* Parametros optimos de un portafolio de riesgo
